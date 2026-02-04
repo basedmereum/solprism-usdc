@@ -1,0 +1,15 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+/broadcast/
+
+# Deployer key
+.deployer-key
+
+# Docs
+docs/
+
+# Dotenv file
+.env
